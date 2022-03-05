@@ -1,1 +1,3 @@
-# picx-image-hosting
+# Picx-Image-Hosting
+
+Image hosting for my hexo blog.
