@@ -1,4 +1,4 @@
 echo Push to GitHub
 git push github main
 echo Push to Gitee
-git push github master
+git push gitee main
