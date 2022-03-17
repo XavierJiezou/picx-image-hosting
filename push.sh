@@ -1,6 +1,6 @@
 git add .
 git commit --allow-empty-message -m ''
-echo Push to GitHub
+echo 1. Push to GitHub
 git push github main
-echo Push to Gitee
+echo 2. Push to Gitee
 git push gitee main
